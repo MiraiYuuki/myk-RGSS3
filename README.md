@@ -1,3 +1,6 @@
+#Little Introduction
+Hi, Mirai here, previously known as Zeon013 in RMVXAN forum, feel free to explore here.
+
 # myk-RGSS3
 repository for my RGSS3 scripts.
 
